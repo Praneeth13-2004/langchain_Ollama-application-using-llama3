@@ -12,5 +12,5 @@ It provides a minimal interface where you can type a question and get a response
 - Lightweight and beginner-friendly.
 
 
-#Owner of code: 
+# Owner of code: 
 Praneeth Karthikeya
