@@ -37,8 +37,8 @@ prompt_template = PromptTemplate(
 # User Inputs
 company = st.text_input("Company Name")
 position = st.text_input("Position Title")
-strengths = st.text_area("Your Strengths", height=100)
-weaknesses = st.text_area(" Your Weaknesses", height=100)
+strengths = st.text_area("Your Strengths", height=200)
+weaknesses = st.text_area(" Your Weaknesses", height=200)
 
 # Generate Response
 if company and position and strengths and weaknesses:
